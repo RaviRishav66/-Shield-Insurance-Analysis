@@ -8,7 +8,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjhkYzllZGMtYWFmNy00ODA4LThjMDAtY2MxZTQzM
 
 ## 🔗 Video Presentation
 
-
+https://www.linkedin.com/posts/ravirishav_codebasicsvirtualinternship-dataanalytics-activity-7373649551062290432-_kyV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3MgMsBrCvb1IPnnUOrt2hcabaPP5Vvjwo
 
 ## 🔎 Project Overview
 
@@ -18,8 +18,9 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 
 ## Problem Statement-
 
-Shield Insurance wants to improve its decision-making process by leveraging data insights. 
-They requested a pilot project to assess our capabilities prior to participating in a larger relationship.
+Shield Insurance aims to enhance its data-driven decisions by implementing a dashboard that delivers clear and actionable insights. To explore a partnership with AtliQ Technologies, they have proposed a pilot project to assess our capabilities. 
+
+This project will help them evaluate how effectively we can meet their requirements before moving forward with a full-scale implementation. The outcome of this pilot will play a key role in determining the possibility of a larger, long-term collaboration.
 
 ## 📚 What I Learned
 
